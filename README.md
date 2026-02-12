@@ -56,15 +56,9 @@ To become a skilled Data Scientist and contribute to impactful AI and analytics 
 
 ## 📫 Connect With Me
 
-<p>
-  <a href="mailto:madhurisonawane296@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  
-  <a href="https://linkedin.com/in/madhurisonawane">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+📧 Email: madhurisonawane296@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/madhurisonawane
+
 
 ---
 
